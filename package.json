@@ -1,0 +1,21 @@
+{
+  "name": "laravel-youtube-api",
+  "version": "1.0.0",
+  "description": "Add a youtube api to your Laravel instance",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build process needed for PHP package'",
+    "test": "echo 'Use composer test for PHP testing'"
+  },
+  "keywords": [
+    "laravel",
+    "youtube-api",
+    "php"
+  ],
+  "author": "Michael V.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelbelgium/laravel-youtube-api"
+  }
+}
